@@ -328,7 +328,7 @@ include a note as follows.
 > To enable it in current versions of Swift,
 > use the feature identifier `SomeFeatureIdentifier`.
 > For information about enabling future language features,
-> see [Enabling future language features](FIXME).
+> see [Enabling future language features](https://github.com/swiftlang/swift-migration-guide/blob/main/Guide.docc/FeatureMigration.md).
 
 [SE-0362]: https://github.com/apple/swift-evolution/blob/main/proposals/0362-piecemeal-future-features.md
 
